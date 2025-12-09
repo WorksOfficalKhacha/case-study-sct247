@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/case-study-sct247/static/css/main.ea573ab3.css",
-    "main.js": "/case-study-sct247/static/js/main.10e2ff82.js",
+    "main.js": "/case-study-sct247/static/js/main.37bb0314.js",
     "index.html": "/case-study-sct247/index.html",
     "main.ea573ab3.css.map": "/case-study-sct247/static/css/main.ea573ab3.css.map",
-    "main.10e2ff82.js.map": "/case-study-sct247/static/js/main.10e2ff82.js.map"
+    "main.37bb0314.js.map": "/case-study-sct247/static/js/main.37bb0314.js.map"
   },
   "entrypoints": [
     "static/css/main.ea573ab3.css",
-    "static/js/main.10e2ff82.js"
+    "static/js/main.37bb0314.js"
   ]
 }
